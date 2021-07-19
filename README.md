@@ -13,3 +13,7 @@ The Sorting Visualizer shows 4 different sorting methods in action
 
 The BlackJack Project is an interactictive game of blackjack against an AI dealer.
 The code utilizes many skills including object oriented programming and optimized if-else chains.
+
+The Dictionary Attack Project is a Python based project that takes in a user defined password from a given dictionary,
+and uses machine learning algorithms to determine which hash function, 256 or 512 is more efficient in finding the password
+and graphs the data in a GUI.
