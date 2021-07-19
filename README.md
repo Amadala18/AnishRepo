@@ -17,3 +17,6 @@ The code utilizes many skills including object oriented programming and optimize
 The Dictionary Attack Project is a Python based project that takes in a user defined password from a given dictionary,
 and uses machine learning algorithms to determine which hash function, 256 or 512 is more efficient in finding the password
 and graphs the data in a GUI.
+
+<img width="468" alt="Capture" src="https://user-images.githubusercontent.com/65423280/126204723-d2751ff7-f7ef-4b83-abfc-6295d94d37b4.PNG">
+  
